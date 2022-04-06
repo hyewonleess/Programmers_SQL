@@ -7,3 +7,4 @@
 
 ### 2. HackerRank
  + Easy ✅
+ + Medium ✅
